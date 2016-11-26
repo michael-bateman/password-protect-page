@@ -4,7 +4,7 @@ var pass1 = prompt('Please Enter Your Password','');
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "idivtimes1617") {
+if (pass1.toLowerCase() == "hello1234") {
 window.open('a/index.html');
 break;
 } 
